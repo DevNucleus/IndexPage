@@ -26,7 +26,6 @@ This project is built using **HTML tags** for content structure, styled with the
 - **HTML5**
 - **CSS**
 - **Bootstrap CSS**
-- 
 ---
 
 
