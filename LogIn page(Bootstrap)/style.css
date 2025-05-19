@@ -1,0 +1,43 @@
+.logpage{
+    background-color: #c3e8f3;
+}
+.mycard{
+    margin: auto;
+    margin-top: 15%;
+}
+.custom_card{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 5px 11px -4px rgba(0,0,0,0.75);
+}
+.custom_card button{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+div.custombox{
+    display: block;
+    width:fit-content;
+    margin: auto;
+}
+div.create_accnt{
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+div.create_accnt a{
+    
+    color: rgb(95, 95, 95);
+}
+
+img.logo_img{
+    width: 40%;
+    display: block;
+    margin: auto;
+    padding:0 0 1.2rem 0;
+}
+div.log_box{
+    margin: auto;
+}
+div.log_box div{
+    padding:0 0 0.8rem 0;
+}
